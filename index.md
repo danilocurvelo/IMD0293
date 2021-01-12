@@ -18,7 +18,7 @@ Todo o material acadêmico da execução 2020.2 de **Tópicos Especiais em Inter
   </tr>
   <tr>
   <td>Atendimento síncrono</td>
-   <td><a target="_blank" href="#"><img src="https://img.shields.io/badge/-Discord-3C3C3D?style=flat-square&logo=discord"></a> 19/01 17:00-18:30</td>
+   <td><a target="_blank" href="https://discord.gg/SPCT7SCpxH"><img src="https://img.shields.io/badge/-Discord-3C3C3D?style=flat-square&logo=discord"></a> 19/01 17:00-18:30</td>
   </tr>
   <tr>
     <td>Leitura complementar</td>
