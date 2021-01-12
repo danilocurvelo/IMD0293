@@ -1,6 +1,6 @@
 ## IMD0293 - Tópicos Especiais em Internet das Coisas D (Blockchain)
 
-Todo o material acadêmico da execução 2020.2 de Tópicos Especiais em Internet das Coisas D (IMD0293) do Bacharelado em Tecnologia da Informação do IMD/UFRN estará disponível neste repositório. Sempre que possível uma leitura complementar do conteúdo visto será disponibilizado na forma de *link* para os livros digitais disponíveis gratuitamente [*Mastering Bitcoin* (MB)](https://github.com/bitcoinbook/bitcoinbook) e [*Mastering Ethereum* (ME)](https://github.com/ethereumbook/ethereumbook), escrito por Andreas M. Antonopoulos.
+Todo o material acadêmico da execução 2020.2 de **Tópicos Especiais em Internet das Coisas D** (IMD0293) do Bacharelado em Tecnologia da Informação do IMD/UFRN estará disponível neste repositório. Sempre que possível uma leitura complementar do conteúdo visto será disponibilizado na forma de *link* para os livros digitais disponíveis gratuitamente [*Mastering Bitcoin* (MB)](https://github.com/bitcoinbook/bitcoinbook) e [*Mastering Ethereum* (ME)](https://github.com/ethereumbook/ethereumbook), escrito por Andreas M. Antonopoulos.
 
 
 
