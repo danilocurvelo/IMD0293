@@ -33,13 +33,13 @@ Todo o material acadêmico da execução 2020.2 de **Tópicos Especiais em Inter
     <td><a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook">Mastering Bitcoin</a> <em>por A. Antonopoulos</em></td>
   </tr>
   
-    <tr><td colspan="2"></td></tr>
+<tr><td colspan="2"></td></tr>
     
-    <tr>
+  <tr>
     <td colspan="2"><strong>(26/01 - 28/01) Semana 2</strong></td>
-  </tr>
+    </tr>
     <tr>
-    <td><strong>Protocolo Bitcoin: visão geral</strong></td>
+    <td><strong>Do Bitcoin ao Blockchain</strong></td>
     <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0293/raw/main/slides/02-bitcoin-history.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://youtu.be/uNr2Q2Xsar8"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
   </tr>
   <tr>
