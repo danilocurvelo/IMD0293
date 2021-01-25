@@ -52,7 +52,7 @@ Todo o material acadêmico da execução 2020.2 de **Tópicos Especiais em Inter
   </tr>
   <tr>
     <td>Material complementar</td>
-    <td><a target="_blank" href="https://bitcoin.org/bitcoin.pdf">White paper</a> por <em>Satoshi Nakamoto</em><br><a target="_blank" href="http://www.activism.net/cypherpunk/manifesto.html">Cypherpunk Manifesto</a> por <em>E. Hughes</em></td>
+    <td><a target="_blank" href="https://bitcoin.org/bitcoin.pdf">White paper</a> por <em>Satoshi Nakamoto</em><br><a target="_blank" href="http://www.activism.net/cypherpunk/manifesto.html">Cypherpunk Manifesto</a> por <em>E. Hughes</em><br><a target="_blank" href="https://www.blockchain.com/explorer">Blockchain Explorer</a></td>
  
   </tr>
   <tr>
