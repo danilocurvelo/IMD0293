@@ -40,7 +40,7 @@ Todo o material acadêmico da execução 2020.2 de **Tópicos Especiais em Inter
     </tr>
     <tr>
     <td><strong>Do Bitcoin ao Blockchain</strong></td>
-    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0293/raw/main/slides/02-bitcoin-history.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://www.youtube.com/watch?v=tmjRa4D9qh8"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0293/raw/main/slides/02-blockchain-history.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://www.youtube.com/watch?v=tmjRa4D9qh8"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
   </tr>
   <tr>
   <td>Atendimento síncrono</td>
