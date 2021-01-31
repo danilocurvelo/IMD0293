@@ -60,6 +60,37 @@ Todo o material acadêmico da execução 2020.2 de **Tópicos Especiais em Inter
     <td><a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook">Mastering Bitcoin</a> <em>por A. Antonopoulos</em></td>
   </tr>
   
+  <tr><td colspan="2"></td></tr>
+    
+  <tr>
+    <td colspan="2"><strong>(02/02 - 04/02) Semana 3</strong></td>
+    </tr>
+    <tr>
+    <td><strong>Arq. do Blockchain: Hashing</strong></td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0293/raw/main/slides/03-blockchain-architecture-hashing.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://www.youtube.com/watch?v=ZEXXe-CAUzE"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
+  </tr>
+  <tr>
+  <td>Atendimento síncrono</td>
+   <td><a target="_blank" href="https://discord.gg/SPCT7SCpxH"><img src="https://img.shields.io/badge/-Discord-3C3C3D?style=flat-square&logo=discord"></a> 04/02 17:00-18:30</td>
+  </tr>
+  <tr>
+    <td>Atividade avaliativa #01</td>
+    <td><a target="_blank" href="https://classroom.github.com/a/QNH-yHZL"><img src="https://img.shields.io/badge/-GitHub Classroom-181717?style=flat-square&logo=github"></a></td>
+  </tr>
+  <tr>
+    <td>Leitura complementar</td>
+    <td>MB Capítulo <a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc">4</a></td>
+  </tr>
+  <tr>
+    <td>Material complementar</td>
+    <td><a target="_blank" href="https://andersbrownworth.com/blockchain/hash">SHA256 Online</a><br><a target="_blank" href="https://docs.python.org/3/library/hashlib.html">Documentação hashlib</a></td>
+ 
+  </tr>
+  <tr>
+    <td>Bibliografia</td>
+    <td><a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook">Mastering Bitcoin</a> <em>por A. Antonopoulos</em></td>
+  </tr>
+  
     
 </table>
 
