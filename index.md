@@ -75,7 +75,7 @@ Todo o material acadêmico da execução 2020.2 de **Tópicos Especiais em Inter
   </tr>
   <tr>
     <td>Atividade avaliativa #01</td>
-    <td><a target="_blank" href="https://classroom.github.com/a/QNH-yHZL"><img src="https://img.shields.io/badge/-GitHub Classroom-181717?style=flat-square&logo=github"></a><em> até 07/02 23:59</em></td>
+    <td><a target="_blank" href="https://classroom.github.com/a/QNH-yHZL"><img src="https://img.shields.io/badge/-GitHub Classroom-181717?style=flat-square&logo=github"></a><em><strong> até 07/02 23:59</strong></em></td>
   </tr>
   <tr>
     <td>Leitura complementar</td>
