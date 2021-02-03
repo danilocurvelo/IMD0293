@@ -13,6 +13,8 @@ O repositório está dividido conforme a execução das aulas de 2020.2.
 ├── blockchain-python
 │   ├── 01-hashing
 │   │   └── blockchain.py
+|   ├── 02-blocks
+|   │   └── blockchain.py
 [...]
 
 ```
