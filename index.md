@@ -91,6 +91,45 @@ Todo o material acadêmico da execução 2020.2 de **Tópicos Especiais em Inter
     <td><a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook">Mastering Bitcoin</a> <em>por A. Antonopoulos</em></td>
   </tr>
   
+  
+  <tr><td colspan="2"></td></tr>
+    
+  <tr>
+    <td colspan="2"><strong>(09/02 - 11/02) Semana 4</strong></td>
+    </tr>
+    <tr>
+    <td><strong>Arq. do Blockchain: Bloco</strong></td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0293/raw/main/slides/04-blockchain-architecture-blocks.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://www.youtube.com/watch?v=8V373AknJtI"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
+  </tr>
+  
+  <tr>
+    <td><strong>Arq. do Blockchain: Rede e Mempool</strong></td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0293/raw/main/slides/05-blockchain-architecture-network-mempool.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://www.youtube.com/watch?v=mtorla6qlpE"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
+  </tr>
+  
+  
+  <tr>
+  <td>Atendimento síncrono</td>
+   <td><a target="_blank" href="https://discord.gg/SPCT7SCpxH"><img src="https://img.shields.io/badge/-Discord-3C3C3D?style=flat-square&logo=discord"></a> 11/02 17:00-18:30</td>
+  </tr>
+  <tr>
+    <td>Atividade avaliativa #02</td>
+    <td><a target="_blank" href="https://classroom.github.com/a/j0wOpXlA"><img src="https://img.shields.io/badge/-GitHub Classroom-181717?style=flat-square&logo=github"></a><em><strong> até 14/02 23:59</strong></em></td>
+  </tr>
+  <tr>
+    <td>Leitura complementar</td>
+    <td>MB Capítulo <a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch09.asciidoc">9</a></td>
+  </tr>
+  <tr>
+    <td>Material complementar</td>
+    <td><a target="_blank" href="https://andersbrownworth.com/blockchain/block">Blocos: Demo</a><br><a target="_blank" href="https://andersbrownworth.com/blockchain/blockchain">Blockchain: Demo</a></td>
+ 
+  </tr>
+  <tr>
+    <td>Bibliografia</td>
+    <td><a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook">Mastering Bitcoin</a> <em>por A. Antonopoulos</em></td>
+  </tr>
+  
     
 </table>
 
