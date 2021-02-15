@@ -130,6 +130,41 @@ Todo o material acadêmico da execução 2020.2 de **Tópicos Especiais em Inter
     <td><a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook">Mastering Bitcoin</a> <em>por A. Antonopoulos</em></td>
   </tr>
   
+  
+  
+   <tr><td colspan="2"></td></tr>
+    
+  <tr>
+    <td colspan="2"><strong>(16/02 - 18/02) Semana 5</strong></td>
+    </tr>
+    <tr>
+    <td><strong>Arq. do Blockchain: Consenso</strong></td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0293/raw/main/slides/06-blockchain-architecture-consensus.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://www.youtube.com/watch?v=Ga2AL4VJVdQ"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
+  </tr>
+  
+  
+  <tr>
+  <td>Atendimento síncrono</td>
+   <td><a target="_blank" href="https://discord.gg/SPCT7SCpxH"><img src="https://img.shields.io/badge/-Discord-3C3C3D?style=flat-square&logo=discord"></a> 18/02 17:00-18:30</td>
+  </tr>
+  <tr>
+    <td>Atividade avaliativa #03</td>
+    <td><a target="_blank" href="https://classroom.github.com/a/fMwH_7wE"><img src="https://img.shields.io/badge/-GitHub Classroom-181717?style=flat-square&logo=github"></a><em><strong> até 28/02 23:59</strong></em></td>
+  </tr>
+  <tr>
+    <td>Leitura complementar</td>
+    <td>MB Capítulo <a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch10.asciidoc">10</a></td>
+  </tr>
+  <tr>
+    <td>Material complementar</td>
+    <td><a target="_blank" href="https://www.mail-archive.com/cryptography@metzdowd.com/msg09997.html">E-Mail Satoshi Nakamoto: PoW</a></td>
+ 
+  </tr>
+  <tr>
+    <td>Bibliografia</td>
+    <td><a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook">Mastering Bitcoin</a> <em>por A. Antonopoulos</em></td>
+  </tr>
+  
     
 </table>
 
