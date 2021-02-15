@@ -15,6 +15,8 @@ O repositório está dividido conforme a execução das aulas de 2020.2.
 │   │   └── blockchain.py
 |   ├── 02-blocks
 |   │   └── blockchain.py
+|   ├── 03-pow
+|   │   └── blockchain.py
 [...]
 
 ```
