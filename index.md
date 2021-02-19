@@ -139,7 +139,7 @@ Todo o material acadêmico da execução 2020.2 de **Tópicos Especiais em Inter
     </tr>
     <tr>
     <td><strong>Arq. do Blockchain: Consenso</strong></td>
-    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0293/raw/main/slides/06-blockchain-architecture-consensus.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://www.youtube.com/watch?v=Ga2AL4VJVdQ"><img src="https://img.shields.io/badge/-Videoaula P1- ff0000?style=flat-square&logo=youtube"></a>  <a target="_blank" href="https://youtu.be/82SSXCJQMNM"><img src="https://img.shields.io/badge/-Videoaula P2-ff0000?style=flat-square&logo=youtube"></a></td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0293/raw/main/slides/06-blockchain-architecture-consensus.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://www.youtube.com/watch?v=Ga2AL4VJVdQ"><img src="https://img.shields.io/badge/-Videoaula P1-ff0000?style=flat-square&logo=youtube"></a>  <a target="_blank" href="https://youtu.be/82SSXCJQMNM"><img src="https://img.shields.io/badge/-Videoaula P2-ff0000?style=flat-square&logo=youtube"></a></td>
   </tr>
   
   
