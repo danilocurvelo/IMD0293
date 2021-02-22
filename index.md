@@ -135,7 +135,7 @@ Todo o material acadêmico da execução 2020.2 de **Tópicos Especiais em Inter
    <tr><td colspan="2"></td></tr>
     
   <tr>
-    <td colspan="2"><strong>(16/02 - 18/02) Semana 5</strong></td>
+    <td colspan="2"><strong>(16/02 - 25/02) Semana 5 e 6</strong></td>
     </tr>
     <tr>
     <td><strong>Arq. do Blockchain: Consenso</strong></td>
@@ -145,7 +145,7 @@ Todo o material acadêmico da execução 2020.2 de **Tópicos Especiais em Inter
   
   <tr>
   <td>Atendimento síncrono</td>
-   <td><a target="_blank" href="https://discord.gg/SPCT7SCpxH"><img src="https://img.shields.io/badge/-Discord-3C3C3D?style=flat-square&logo=discord"></a> 18/02 17:00-18:30</td>
+   <td><a target="_blank" href="https://discord.gg/SPCT7SCpxH"><img src="https://img.shields.io/badge/-Discord-3C3C3D?style=flat-square&logo=discord"></a> 18/02 e 25/02 17:00-18:30</td>
   </tr>
   <tr>
     <td>Atividade avaliativa #03</td>
