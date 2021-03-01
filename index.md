@@ -165,6 +165,48 @@ Todo o material acadêmico da execução 2020.2 de **Tópicos Especiais em Inter
     <td><a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook">Mastering Bitcoin</a> <em>por A. Antonopoulos</em></td>
   </tr>
   
+  
+   <tr><td colspan="2"></td></tr>
+    
+  <tr>
+    <td colspan="2"><strong>(02/03 - 04/03) Semana 7</strong></td>
+    </tr>
+    <tr>
+    <td><strong>Arq. do Blockchain: Assinatura Digital</strong></td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0293/raw/main/slides/04-blockchain-architecture-signatures.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://youtu.be/d97p-a_EhLg"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
+  </tr>
+  
+  <tr>
+    <td><strong>Arq. do Blockchain: Carteiras (<em>wallets</em>)</strong></td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0293/raw/main/slides/05-blockchain-architecture-wallets.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://youtu.be/pKz4PtLQcyE"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
+  </tr>
+  
+  
+  <tr>
+  <td>Atendimento síncrono</td>
+   <td><a target="_blank" href="https://discord.gg/SPCT7SCpxH"><img src="https://img.shields.io/badge/-Discord-3C3C3D?style=flat-square&logo=discord"></a> 04/03 17:00-18:30</td>
+  </tr>
+  <tr>
+    <td>Blockchain em Python</td>
+    <td><a target="_blank" href="https://classroom.github.com/a/j0wOpXlA"><img src="https://img.shields.io/badge/-Repositório-181717?style=flat-square&logo=github"></a></td>
+  </tr>
+  <tr>
+    <td>Leitura complementar</td>
+    <td>MB Capítulo <a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc">4</a> e <a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch05.asciidoc">5</a></td>
+  </tr>
+  <tr>
+    <td>Material complementar</td>
+    <td><a target="_blank" href="https://tools.bitcoin.com/verify-message/">Validação de assinaturas Bitcoin</a><br><a target="_blank" href="https://bitcoinpaperwallet.com/">Paper wallet</a><br><a target="_blank" href="https://bitcoin.org/en/exchanges#south-america">Bitcoin Exchanges</a><br><a target="_blank" href="https://bitcoin.org/pt_BR/escolha-sua-carteira">Escolha sua carteira (<em>wallet</em>)</a></td>
+
+ 
+
+  </tr>
+  <tr>
+    <td>Bibliografia</td>
+    <td><a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook">Mastering Bitcoin</a> <em>por A. Antonopoulos</em></td>
+  </tr>
+  
+  
     
 </table>
 
