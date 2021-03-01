@@ -188,7 +188,7 @@ Todo o material acadêmico da execução 2020.2 de **Tópicos Especiais em Inter
   </tr>
   <tr>
     <td>Blockchain em Python</td>
-    <td><a target="_blank" href="https://classroom.github.com/a/j0wOpXlA"><img src="https://img.shields.io/badge/-Repositório-181717?style=flat-square&logo=github"></a></td>
+    <td><a target="_blank" href="#"><img src="https://img.shields.io/badge/-Repositório-181717?style=flat-square&logo=github"></a></td>
   </tr>
   <tr>
     <td>Leitura complementar</td>
