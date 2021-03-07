@@ -214,12 +214,12 @@ Todo o material acadêmico da execução 2020.2 de **Tópicos Especiais em Inter
     </tr>
     <tr>
     <td><strong>Arq. do Blockchain: Transações</strong></td>
-    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0293/raw/main/slides/09-blockchain-architecture-transactions.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://youtu.be/d97p-a_EhLg"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0293/raw/main/slides/09-blockchain-architecture-transactions.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://youtu.be/sXUnIj_-YDw"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
   </tr>
   
   <tr>
     <td><strong>Arq. do Blockchain: Scripts Bitcoin</strong></td>
-    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0293/raw/main/slides/10-blockchain-architecture-script-bitcoin.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://youtu.be/pKz4PtLQcyE"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0293/raw/main/slides/10-blockchain-architecture-script-bitcoin.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://youtu.be/2tmAZagwuXo"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
   </tr>
   
   
