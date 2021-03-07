@@ -237,7 +237,7 @@ Todo o material acadêmico da execução 2020.2 de **Tópicos Especiais em Inter
   </tr>
   <tr>
     <td>Material complementar</td>
-    <td><a target="_blank" href="https://tools.bitcoin.com/verify-message/">Validação de assinaturas Bitcoin</a><br><a target="_blank" href="https://bitcoinpaperwallet.com/">Paper wallet</a><br><a target="_blank" href="https://bitcoin.org/en/exchanges#south-america">Bitcoin Exchanges</a><br><a target="_blank" href="https://bitcoin.org/pt_BR/escolha-sua-carteira">Escolha sua carteira (<em>wallet</em>)</a></td>
+    <td><a target="_blank" href="https://en.bitcoin.it/wiki/Script">Referência da linguagem <em>Script</em></a></td>
 
 
   </tr>
