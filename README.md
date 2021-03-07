@@ -17,6 +17,10 @@ O repositório está dividido conforme a execução das aulas de 2020.2.
 |   │   └── blockchain.py
 |   ├── 03-pow
 |   │   └── blockchain.py
+|   ├── 04-sign-and-verify
+|   │   └── blockchain.py
+|   ├── 05-transactions
+|   │   └── blockchain.py
 [...]
 
 ```
