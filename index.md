@@ -285,6 +285,43 @@ Todo o material acadêmico da execução 2020.2 de **Tópicos Especiais em Inter
     <td><a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook">Mastering Bitcoin</a> <em>por A. Antonopoulos</em></td>
   </tr>  
   
+  
+  
+  
+  <tr><td colspan="2"></td></tr>
+    
+  <tr>
+    <td colspan="2"><strong>(23/03 - 25/03) Semana 10</strong></td>
+    </tr>
+    <tr>
+    <td><strong>Ethereum e Smart Contracts</strong></td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0293/raw/main/slides/13-ethereum-and-smart-contracts.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://www.youtube.com/watch?v=7Vgs4dZ58CQ"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
+  </tr>
+  
+  
+  <tr>
+  <td>Atendimento síncrono</td>
+   <td><a target="_blank" href="https://discord.gg/SPCT7SCpxH"><img src="https://img.shields.io/badge/-Discord-3C3C3D?style=flat-square&logo=discord"></a> 23/03 17:00-18:30</td>
+  </tr>
+  <tr>
+    <td>Atividade avaliativa #06</td>
+    <td><a target="_blank" href="https://classroom.github.com/g/-_PY8y13"><img src="https://img.shields.io/badge/-GitHub Classroom-181717?style=flat-square&logo=github"></a><em><strong> até 25/03 23:59</strong></em></td>
+  </tr>
+  <tr>
+    <td>Leitura complementar</td>
+    <td>MB Capítulo <a target="_blank" href="https://github.com/ethereumbook/ethereumbook/blob/develop/01what-is.asciidoc">1</a>, <a target="_blank" href="https://github.com/ethereumbook/ethereumbook/blob/develop/02intro.asciidoc">2</a> e <a target="_blank" href="https://github.com/ethereumbook/ethereumbook/blob/develop/06transactions.asciidoc">6</a></td>
+  </tr>
+  <tr>
+    <td>Material complementar</td>
+    <td><a target="_blank" href="https://www.ethereum.org">Ethereum Website</a></td>
+
+
+  </tr>
+  <tr>
+    <td>Bibliografia</td>
+    <td><a target="_blank" href="https://github.com/ethereumbook/ethereumbook">Mastering Ethereum</a> <em>por A. Antonopoulos</em></td>
+  </tr>  
+  
     
 </table>
 
