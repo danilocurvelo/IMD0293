@@ -313,7 +313,7 @@ Todo o material acadêmico da execução 2020.2 de **Tópicos Especiais em Inter
   </tr>
   <tr>
     <td>Material complementar</td>
-    <td><a target="_blank" href="https://www.ethereum.org">Ethereum Website</a></td>
+    <td><a target="_blank" href="https://www.ethereum.org">Ethereum Website</a><br><a target="_blank" href="https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn">MetaMask</a><br><a target="_blank" href="https://faucet.metamask.io">Ether Ropstein Faucet</a></td>
 
 
   </tr>
