@@ -336,11 +336,11 @@ Todo o material acadêmico da execução 2020.2 de **Tópicos Especiais em Inter
   
   <tr>
     <td><strong>Exemplos Smart Contracts</strong></td>
-    <td><a target="_blank" href="https://www.youtube.com/watch?v=ocO5XkdaIz8"><img src="https://img.shields.io/badge/-HelloWorld.sol-ff0000?style=flat-square&logo=youtube"></a> <a target="_blank" href="#"><img src="https://img.shields.io/badge/-Código-fonte-181717?style=flat-square&logo=github"></a>
+    <td><a target="_blank" href="https://www.youtube.com/watch?v=ocO5XkdaIz8"><img src="https://img.shields.io/badge/-HelloWorld.sol-ff0000?style=flat-square&logo=youtube"></a> <a target="_blank" href="#"><img src="https://img.shields.io/badge/-Source code-181717?style=flat-square&logo=github"></a>
   <br>
-      <a target="_blank" href="https://www.youtube.com/watch?v=ocO5XkdaIz8"><img src="https://img.shields.io/badge/-Coin.sol-ff0000?style=flat-square&logo=youtube"></a> <a target="_blank" href="#"><img src="https://img.shields.io/badge/-Código-fonte-181717?style=flat-square&logo=github"></a>
+      <a target="_blank" href="https://www.youtube.com/watch?v=ocO5XkdaIz8"><img src="https://img.shields.io/badge/-Coin.sol-ff0000?style=flat-square&logo=youtube"></a> <a target="_blank" href="#"><img src="https://img.shields.io/badge/-Source code-181717?style=flat-square&logo=github"></a>
   <br>
-      <a target="_blank" href="https://www.youtube.com/watch?v=ocO5XkdaIz8"><img src="https://img.shields.io/badge/-Faucet.sol-ff0000?style=flat-square&logo=youtube"></a> <a target="_blank" href="#"><img src="https://img.shields.io/badge/-Código-fonte-181717?style=flat-square&logo=github"></a>
+      <a target="_blank" href="https://www.youtube.com/watch?v=ocO5XkdaIz8"><img src="https://img.shields.io/badge/-Faucet.sol-ff0000?style=flat-square&logo=youtube"></a> <a target="_blank" href="#"><img src="https://img.shields.io/badge/-Source code-181717?style=flat-square&logo=github"></a>
   
   </td>
   </tr>
@@ -351,11 +351,11 @@ Todo o material acadêmico da execução 2020.2 de **Tópicos Especiais em Inter
    <td><a target="_blank" href="https://discord.gg/SPCT7SCpxH"><img src="https://img.shields.io/badge/-Discord-3C3C3D?style=flat-square&logo=discord"></a> 01/04 17:00-18:30</td>
   </tr>
   <tr>
-    <td>Atividade #2.1: Rifa.sol</td>
+    <td><strong>Atividade: Rifa.sol</strong></td>
     <td><a target="_blank" href="#"><img src="https://img.shields.io/badge/-GitHub Classroom-181717?style=flat-square&logo=github"></a><em><strong> até 25/03 23:59</strong></em></td>
   </tr>
   <tr>
-    <td>Atividade #2.2: Poupanca.sol</td>
+    <td><strong>Atividade: Poupanca.sol</strong></td>
     <td><a target="_blank" href="#"><img src="https://img.shields.io/badge/-GitHub Classroom-181717?style=flat-square&logo=github"></a><em><strong> até 25/03 23:59</strong></em></td>
   </tr>
   <tr>
