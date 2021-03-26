@@ -322,6 +322,46 @@ Todo o material acadêmico da execução 2020.2 de **Tópicos Especiais em Inter
     <td><a target="_blank" href="https://github.com/ethereumbook/ethereumbook">Mastering Ethereum</a> <em>por A. Antonopoulos</em></td>
   </tr>  
   
+  
+  
+   <tr><td colspan="2"></td></tr>
+    
+  <tr>
+    <td colspan="2"><strong>(30/03 - 01/04) Semana 11</strong></td>
+    </tr>
+    <tr>
+    <td><strong>Solidity</strong></td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0293/raw/main/slides/14-solidity.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://www.youtube.com/watch?v=JPWY-7aqae0"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
+  </tr>
+  
+  
+  <tr>
+  <td>Atendimento síncrono</td>
+   <td><a target="_blank" href="https://discord.gg/SPCT7SCpxH"><img src="https://img.shields.io/badge/-Discord-3C3C3D?style=flat-square&logo=discord"></a> 01/04 17:00-18:30</td>
+  </tr>
+  <tr>
+    <td>Atividade #2.1: Rifa.sol</td>
+    <td><a target="_blank" href="#"><img src="https://img.shields.io/badge/-GitHub Classroom-181717?style=flat-square&logo=github"></a><em><strong> até 25/03 23:59</strong></em></td>
+  </tr>
+  <tr>
+    <td>Atividade #2.2: Poupanca.sol</td>
+    <td><a target="_blank" href="#"><img src="https://img.shields.io/badge/-GitHub Classroom-181717?style=flat-square&logo=github"></a><em><strong> até 25/03 23:59</strong></em></td>
+  </tr>
+  <tr>
+    <td>Leitura complementar</td>
+    <td>MB Capítulo <a target="_blank" href="https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc">7</a></td>
+  </tr>
+  <tr>
+    <td>Material complementar</td>
+    <td><a target="_blank" href="https://docs.soliditylang.org/">Documentação Solidity</a><br><a target="_blank" href="https://remix.ethereum.org/">Remix IDE</a><br><a target="_blank" href="https://faucet.metamask.io">Ether Ropstein Faucet</a></td>
+
+
+  </tr>
+  <tr>
+    <td>Bibliografia</td>
+    <td><a target="_blank" href="https://github.com/ethereumbook/ethereumbook">Mastering Ethereum</a> <em>por A. Antonopoulos</em></td>
+  </tr>  
+  
     
 </table>
 
