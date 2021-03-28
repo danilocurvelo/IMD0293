@@ -352,7 +352,7 @@ Todo o material acadêmico da execução 2020.2 de **Tópicos Especiais em Inter
   </tr>
   <tr>
     <td><strong>Atividade: Smart Contracts</strong></td>
-    <td><a target="_blank" href="https://classroom.github.com/g/P1S9bfT6"><img src="https://img.shields.io/badge/-GitHub Classroom-181717?style=flat-square&logo=github"></a><em><strong> até 11/04 23:59</strong></em></td>
+    <td><a target="_blank" href="https://classroom.github.com/g/P1S9bfT6"><img src="https://img.shields.io/badge/-GitHub Classroom-181717?style=flat-square&logo=github"></a><em><strong> até 11/04</strong></em></td>
   </tr>
   <tr>
     <td>Leitura complementar</td>
