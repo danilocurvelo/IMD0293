@@ -351,12 +351,8 @@ Todo o material acadêmico da execução 2020.2 de **Tópicos Especiais em Inter
    <td><a target="_blank" href="https://discord.gg/SPCT7SCpxH"><img src="https://img.shields.io/badge/-Discord-3C3C3D?style=flat-square&logo=discord"></a> 01/04 17:00-18:30</td>
   </tr>
   <tr>
-    <td><strong>Atividade: Rifa.sol</strong></td>
-    <td><a target="_blank" href="#"><img src="https://img.shields.io/badge/-GitHub Classroom-181717?style=flat-square&logo=github"></a><em><strong> até 11/04 23:59</strong></em></td>
-  </tr>
-  <tr>
-    <td><strong>Atividade: Poupanca.sol</strong></td>
-    <td><a target="_blank" href="#"><img src="https://img.shields.io/badge/-GitHub Classroom-181717?style=flat-square&logo=github"></a><em><strong> até 11/04 23:59</strong></em></td>
+    <td><strong>Atividade: Smart Contracts</strong></td>
+    <td><a target="_blank" href="https://classroom.github.com/g/P1S9bfT6"><img src="https://img.shields.io/badge/-GitHub Classroom-181717?style=flat-square&logo=github"></a><em><strong> até 11/04 23:59</strong></em></td>
   </tr>
   <tr>
     <td>Leitura complementar</td>
