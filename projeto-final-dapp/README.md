@@ -106,7 +106,7 @@ const DApp = {
 
   // Associa ao endereço do seu contrato
   initContract: async function () {
-    DApp.contracts.Rifa = new DApp.web3.eth.Contract(abi, contractAddress);
+    DApp.contracts.Contrato = new DApp.web3.eth.Contract(abi, contractAddress);
     return DApp.render();
   },
 
