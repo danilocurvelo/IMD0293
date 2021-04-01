@@ -58,29 +58,61 @@ Alguns critérios utilizados na avaliação, porém não restritos a estes, são
 Sugestão de código *javascript* para detectar o objeto web3 injetado no seu navegador para interagir com seu *front-end*:
 
 ```javascript
-window.addEventListener('load', function () {
+// ENDEREÇO EHTEREUM DO CONTRATO
+var contractAddress = "0x5F408b84B13F470C689311d130396E1dd6Db16B4";
 
-    web3Provider = null;
-    // Browsers modernos já injetam web3 automaticamente.
-    if (window.ethereum) {
-        web3Provider = window.ethereum;
-        try {
-            window.ethereum.enable();
-        } catch (error) {
-            console.error("User denied account access")
-        }
-    }
-    // Browsers antigos com MetaMask
-    else if (window.web3) {
-        web3Provider = window.web3.currentProvider;
-    }
-    // Se não detectar instância web3, conectar ao Ganache local.
-    else {
-        console.log('No web3? You should consider trying MetaMask!')
-        web3Provider = new Web3.providers.HttpProvider('http://localhost:7545');
-    }
-    web3 = new Web3(web3Provider);
-    startApp()
+// Inicializa o objeto DApp
+document.addEventListener("DOMContentLoaded", onDocumentLoad);
+function onDocumentLoad() {
+  DApp.init();
+}
 
-})
+// Nosso objeto DApp que irá armazenar a instância web3
+const DApp = {
+  web3: null,
+  contracts: {},
+  account: null,
+
+  init: function () {
+    return DApp.initWeb3();
+  },
+
+  // Inicializa o provedor web3
+  initWeb3: async function () {
+    if (typeof window.ethereum !== "undefined") {
+      try {
+        const accounts = await window.ethereum.request({ // Requisita primeiro acesso ao Metamask
+          method: "eth_requestAccounts",
+        });
+        DApp.account = accounts[0];
+        window.ethereum.on('accountsChanged', DApp.updateAccount); // Atualiza se o usuário trcar de conta no Metamaslk
+      } catch (error) {
+        console.error("Usuário negou acesso ao web3!");
+        return;
+      }
+      DApp.web3 = new Web3(window.ethereum);
+    } else {
+      console.error("Instalar MetaMask!");
+      return;
+    }
+    return DApp.initContract();
+  },
+
+  // Atualiza 'DApp.account' para a conta ativa no Metamask
+  updateAccount: async function() {
+    DApp.account = (await DApp.web3.eth.getAccounts())[0];
+    atualizaInterface();
+  },
+
+  // Associa ao endereço do seu contrato
+  initContract: async function () {
+    DApp.contracts.Rifa = new DApp.web3.eth.Contract(abi, contractAddress);
+    return DApp.render();
+  },
+
+  // Inicializa a interface HTML com os dados obtidos
+  render: async function () {
+    inicializaInterface();
+  },
+};
 ```
