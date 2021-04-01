@@ -32,12 +32,12 @@ Ainda precisarão ser entregues:
 
 O cronograma será:
 
-- 26/11/2019 : **[Obrigatório]** Apresentar a proposta de tema e esboço/protótipo do funcionamento da aplicação.
-- 28/11/2019 : **[Opcional]** Acompanhamento do andamento do projeto.
-- 03/12/2019 : **[Opcional]** Acompanhamento do andamento do projeto.
-- **[Obrigatório]** Apresentar o projeto final ao professor em data e jorário pré-definido:
-    - 05/12/2019 : 1º dia de apresentações.
-    - 06/12/2019 : 2º dia de apresentações.
+- 15/04/2021 17h : **[Obrigatório]** Apresentar a proposta de tema e esboço/protótipo do funcionamento da aplicação.
+- 20/04/2021 17h : **[Opcional]** Acompanhamento do andamento do projeto.
+- 22/04/2021 17h : **[Opcional]** Acompanhamento do andamento do projeto.
+- **[Obrigatório]** Apresentar o projeto final ao professor em data e horário pré-definido:
+    - 27/04/2021 17h : 1º dia de apresentações.
+    - 29/04/2021 17h : 2º dia de apresentações.
 
 
 Alguns critérios utilizados na avaliação, porém não restritos a estes, são:
@@ -45,7 +45,7 @@ Alguns critérios utilizados na avaliação, porém não restritos a estes, são
 - Criatividade e exclusividade do escopo da aplicação
     - *evitar utilizar aplicações já amplamente exploradas e disponíveis na internet.*
 - Complexidade e magnitude da aplicação desenvolvida
-    - *a apresentação da proposta do tema no dia 26.11 irá filtrar aplicações que não atendem esse requisito*
+    - *a apresentação da proposta do tema no dia 15.04 irá filtrar aplicações que não atendem esse requisito*
 - Qualidade dos contrato(s) inteligente(s) utilizado(s)
     - *utilizar linguagem Solidity e explorar seus recursos*
 - Qualidade do *front-end* desenvolvido
