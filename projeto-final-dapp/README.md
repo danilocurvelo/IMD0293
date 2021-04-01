@@ -55,6 +55,12 @@ Alguns critérios utilizados na avaliação, porém não restritos a estes, são
 
 ## Código Base
 
+Consulte o projeto de desenvolvimento do DApp da Rifa para tomar como base: 
+
+[Repositório do DApp](https://github.com/danilocurvelo/dapp-rifa)
+
+[DApp Rifa em produção](https://danilocurvelo.github.io/dapp-rifa/)
+
 Sugestão de código *javascript* para detectar o objeto web3 injetado no seu navegador para interagir com seu *front-end*:
 
 ```javascript
