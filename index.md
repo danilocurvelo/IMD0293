@@ -374,7 +374,7 @@ Todo o material acadêmico da execução 2020.2 de **Tópicos Especiais em Inter
   <tr><td colspan="2"></td></tr>
     
   <tr>
-    <td colspan="2"><strong>(06/04 - 08/04) Semana 12</strong></td>
+    <td colspan="2"><strong>(06/04 - 08/04) Semana 12, 13, 14 e 15</strong></td>
     </tr>
     <tr>
     <td><strong>Tokens</strong></td>
