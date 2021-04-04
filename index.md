@@ -378,16 +378,16 @@ Todo o material acadêmico da execução 2020.2 de **Tópicos Especiais em Inter
     </tr>
     <tr>
     <td><strong>Tokens</strong></td>
-    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0293/raw/main/slides/15-tokens.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://www.youtube.com/watch?v=JPWY-7aqae0"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0293/raw/main/slides/15-tokens.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://www.youtube.com/watch?v=oIf8bz0TUJY"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
   </tr>
   <tr>
     <td><strong>DApps</strong></td>
-    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0293/raw/main/slides/16-dapps.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://www.youtube.com/watch?v=JPWY-7aqae0"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0293/raw/main/slides/16-dapps.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://youtu.be/XIc4tFTNvsI"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
   </tr>
   
   <tr>
     <td><strong>Exemplo DApp: Rifa</strong></td>
-    <td><a target="_blank" href="https://www.youtube.com/watch?v=ocO5XkdaIz8"><img src="https://img.shields.io/badge/-HelloWorld.sol-ff0000?style=flat-square&logo=youtube"></a> <a target="_blank" href="https://github.com/danilocurvelo/dapp-rifa"><img src="https://img.shields.io/badge/-Repositorio-181717?style=flat-square&logo=github"></a>
+    <td><a target="_blank" href="https://youtu.be/XjEIfoYu2Ps"><img src="https://img.shields.io/badge/-DApp Rifa-ff0000?style=flat-square&logo=youtube"></a> <a target="_blank" href="https://github.com/danilocurvelo/dapp-rifa"><img src="https://img.shields.io/badge/-Repositorio-181717?style=flat-square&logo=github"></a>
   
   </td>
   </tr>
