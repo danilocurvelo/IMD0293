@@ -172,7 +172,7 @@ Todo o material acadêmico da execução 2020.2 de **Tópicos Especiais em Inter
     <td colspan="2"><strong>(02/03 - 04/03) Semana 7</strong></td>
     </tr>
     <tr>
-    <td><strong>Arq. do Blockchain: Assinatura Digital</strong></td>
+    <td><strong>Arq. do Blockchain: Assinaturas</strong></td>
     <td><a target="_blank" href="https://github.com/danilocurvelo/IMD0293/raw/main/slides/07-blockchain-architecture-signatures.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a> <a target="_blank" href="https://youtu.be/d97p-a_EhLg"><img src="https://img.shields.io/badge/-Videoaula-ff0000?style=flat-square&logo=youtube"></a></td>
   </tr>
   
